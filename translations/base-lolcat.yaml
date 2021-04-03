@@ -1099,7 +1099,7 @@ keybindings:
         toggleHud: Toggle HUD
         toggleFPSInfo: Toggle FPS and Debug Info
         switchLayers: Switch layers
-        exportScreenshot: Export whole Base as Image
+        exportScreenshot: EXPORT WHOLE BASE AS IMAGE
 
         # --- Do not translate the values in this section
         belt: *belt
@@ -1128,112 +1128,115 @@ keybindings:
         item_producer: Item Producer (Sandbox)
         # ---
 
-        pipette: Pipette
-        rotateWhilePlacing: Rotate
+        pipette: PIPETTE
+        rotateWhilePlacing: ROTATE
         rotateInverseModifier: >-
-            Modifier: Rotate CCW instead
+            Modifier: ROTATE CCW INSTEAD
         rotateToUp: "Rotate: Point Up"
         rotateToDown: "Rotate: Point Down"
         rotateToRight: "Rotate: Point Right"
         rotateToLeft: "Rotate: Point Left"
-        cycleBuildingVariants: Cycle Variants
-        confirmMassDelete: Delete area
-        pasteLastBlueprint: Paste last blueprint
-        cycleBuildings: Cycle Buildings
-        lockBeltDirection: Enable belt planner
+        cycleBuildingVariants: CYCLE VARIANTS
+        confirmMassDelete: DELETE AREA
+        pasteLastBlueprint: PASTE LAST BLUEPRINT
+        cycleBuildings: CYCLE BUILDINGS
+        lockBeltDirection: ENABLE BELT PLANNR
         switchDirectionLockSide: >-
-            Planner: Switch side
+            Planner: SWITCH SIDE
         copyWireValue: >-
-            Wires: Copy value below cursor
-        massSelectStart: Hold and drag to start
-        massSelectSelectMultiple: Select multiple areas
-        massSelectCopy: Copy area
-        massSelectCut: Cut area
+            Wires: COPY VALUE BELOW CURSOR
+        massSelectStart: HOLD AN DRAG 2 START
+        massSelectSelectMultiple: SELECT MULTIPLE AREAS
+        massSelectCopy: COPY AREA
+        massSelectCut: CUT AREA
 
-        placementDisableAutoOrientation: Disable automatic orientation
-        placeMultiple: Stay in placement mode
-        placeInverse: Invert automatic belt orientation
+        placementDisableAutoOrientation: DISABLE AUTOMATIC ORIENTASHUN
+        placeMultiple: STAY IN PLACEMENT MODE
+        placeInverse: INVERT AUTOMATIC BELT ORIENTASHUN
 
 about:
-    title: About this Game
+    title: BOUT DIS GAME
     body: >-
-        This game is open source and developed by <a href="https://github.com/tobspr" target="_blank">Tobias Springer</a> (this is me).<br><br>
+        DIS GAME IZ OPEN SOURCE AN DEVELOPD BY <a href="https://github.com/tobspr" target="_blank">Tobias Springer</a> (DIS AR TEH ME).<br><br>
 
-        If you want to contribute, check out <a href="<githublink>" target="_blank">shapez.io on GitHub</a>.<br><br>
+        IF U WANTS 2 CONTRIBUTE, CHECK OUT <a href="<githublink>" target="_blank">shapez.io on GitHub</a>.<br><br>
 
-        This game wouldn't have been possible without the great Discord community around my games - You should really join the <a href="<discordlink>" target="_blank">Discord server</a>!<br><br>
+        DIS GAME WOULDNT HAS BEEN POSIBLE WITHOUT TEH GREAT DISCORD COMMUNITY AROUND MAH GAMEZ - U SHUD RLY JOIN TEH <a href="<discordlink>" target="_blank">Discord server</a>!<br><br>
 
-        The soundtrack was made by <a href="https://soundcloud.com/pettersumelius" target="_blank">Peppsen</a> - He's awesome.<br><br>
+        TEH SOUNDTRACK WUZ MADE BY <a href="https://soundcloud.com/pettersumelius" target="_blank">Peppsen</a> - He's awesome.<br><br>
 
-        Finally, huge thanks to my best friend <a href="https://github.com/niklas-dahl" target="_blank">Niklas</a> - Without our Factorio sessions, this game would never have existed.
+        FINALLY, HUGE THX 2 MAH BEST FREND <a href="https://github.com/niklas-dahl" target="_blank">Niklas</a> - WITHOUT R FACTORIO SESHUNS, DIS GAME WUD NEVR HAS EXISTD.
 
 changelog:
     title: Changelog
 
 demo:
     features:
-        restoringGames: Restoring savegames
-        importingGames: Importing savegames
-        oneGameLimit: Limited to one savegame
-        customizeKeybindings: Customizing Keybindings
-        exportingBase: Exporting whole Base as Image
+        restoringGames: RESTORIN SAVGAMEZ
+        importingGames: IMPORTIN SAVEGAMEZ
+        oneGameLimit: LIMITD 2 WAN SAVEGAME
+        customizeKeybindings: CUSTOMIZIN KEYBINDINGS
+        exportingBase: EXPORTIN WHOLE BASE AS IMAGE
 
-    settingNotAvailable: Not available in the demo.
+    settingNotAvailable: NOT AVAILABLE IN DA DEMO.
 
 tips:
-    - The hub will accept any input, not just the current shape!
-    - Make sure your factories are modular - it will pay out!
-    - Don't build too close to the hub, or it will be a mess!
-    - If stacking does not work, try switching the inputs.
-    - You can toggle the belt planner direction by pressing <b>R</b>.
-    - Holding <b>CTRL</b> allows dragging of belts without auto-orientation.
-    - Ratios stay the same, as long as all upgrades are on the same Tier.
-    - Serial execution is more efficient than parallel.
-    - You will unlock more variants of buildings later in the game!
-    - You can use <b>T</b> to switch between different variants.
-    - Symmetry is key!
-    - You can weave different tiers of tunnels.
-    - Try to build compact factories - it will pay out!
-    - The painter has a mirrored variant which you can select with <b>T</b>
-    - Having the right building ratios will maximize efficiency.
-    - At maximum level, 5 extractors will fill a single belt.
-    - Don't forget about tunnels!
-    - You don't need to divide up items evenly for full efficiency.
-    - Holding <b>SHIFT</b> will activate the belt planner, letting you place long lines of belts easily.
-    - Cutters always cut vertically, regardless of their orientation.
-    - Mix all three primary colors to get white.
-    - The storage buffer prioritises the left output.
-    - Invest time to build repeatable designs - it's worth it!
-    - Holding <b>SHIFT</b> lets you place multiple buildings at a time.
-    - You can hold <b>ALT</b> to invert the direction of placed belts.
-    - Efficiency is key!
-    - Shape patches that are further away from the hub are more complex.
-    - Machines have a limited speed, divide them up for maximum efficiency.
-    - Use balancers to maximize your efficiency.
-    - Organization is important. Try not to cross conveyors too much.
-    - Plan in advance, or it will be a mess!
-    - Don't remove your old factories! You'll need them to unlock upgrades.
-    - Try beating level 20 or 26 on your own before seeking for help!
-    - Don't complicate things, try to stay simple and you'll go far.
-    - You may need to reuse factories later in the game. Build your factories to be reusable.
-    - Sometimes, you can find a needed shape in the map without creating it with stackers.
-    - Full windmills/pinwheels can never spawn naturally.
-    - Color your shapes before cutting for maximum efficiency.
-    - With modules, space is merely a perception; a concern for mortal men.
-    - Make a separate blueprint factory. They're important for modules.
-    - Have a closer look at the color mixer, and your questions will be answered.
-    - Use <b>CTRL</b> + Click to select an area.
-    - Building too close to the hub can get in the way of later projects.
-    - The pin icon next to each shape in the upgrade list pins it to the screen.
-    - Mix all three primary colors to make white!
-    - You have an infinite map. Don't cramp your factory, expand!
-    - Also try Factorio! It's my favorite game.
-    - The quad cutter cuts clockwise, starting from the top right.
-    - You can download your savegames in the main menu!
-    - This game has a lot of useful keybindings! Be sure to check out the settings page.
-    - This game has a lot of settings, be sure to check them out!
-    - Your hub marker has a small compass that shows which direction it is in!
-    - To clear belts, cut the area and then paste it at the same location.
-    - Press F4 to show your FPS and Tick Rate.
-    - Press F4 twice to show the tile of your mouse and camera.
-    - You can click a pinned shape on the left side to unpin it.
+    - TEH HUB WILL ACCEPT ANY INPUT, NOT JUS TEH CURRENT SHAPE!
+    - MAK SURE UR FACTORIEZ R MODULAR - IT WILL PAI OUT!
+    - DOAN BUILD 2 CLOSE 2 TEH HUB, OR IT WILL BE MES!
+    - IF STACKIN DOEZ NOT WERK, TRY SWITCHIN TEH INPUTS.
+    - U CAN TOGGLE TEH BELT PLANNR DIRECSHUN BY PRESIN <b>R</b>.
+    - HOLDIN <b>CTRL</b> ALLOWS DRAGGIN OV BELTS WITHOUT AUTO-ORIENTASHUN.
+    - RATIOS STAY TEH SAME, AS LONG AS ALL UPGRADEZ R ON TEH SAME TIR.
+    - SERIAL EXECUSHUN IZ MOAR EFFICIENT THAN PARALLEL.
+    - U WILL UNLOCK MOAR VARIANTS OV BUILDINGS LATR IN DA GAME!
+    - U CAN USE <b>T</b> 2 SWITCH TWEEN DIFFERENT VARIANTS.
+    - SYMMETRY IZ KEY!
+    - U CAN WEAVE DIFFERENT TIERS OV TUNNELS.
+    - TRY 2 BUILD COMPACT FACTORIEZ - IT WILL PAI OUT!
+    - TEH PAINTR HAS MIRRORD VARIANT WHICH U CAN SELECT WIF <b>T</b>
+    - HAVIN TEH RITE BUILDIN RATIOS WILL MAXIMIZE EFFICIENCY.
+    - AT MAXIMUM LEVEL, 5 EXTRACTORS WILL FILL SINGLE BELT.
+    - DOAN FORGET BOUT TUNNELS!
+    - U DOAN NED 2 DIVIDE UP ITEMS EVENLY 4 FULL EFFICIENCY.
+    - HOLDIN <b>SHIFT</b> WILL ACTIVATE TEH BELT PLANNR, LETTIN U PLACE LONG LINEZ OV BELTS EASILY.
+    - CUTTERS ALWAYS CUT VERTICALLY, REGARDLES OV THEIR ORIENTASHUN.
+    - MIX ALL 3 PRIMARY COLORS 2 GIT WITE.
+    - TEH STORAGE BUFFR PRIORITISEZ TEH LEFT OUTPUT.
+    - INVEST TIEM 2 BUILD REPEATABLE DESIGNS - IZ WORTH IT!
+    - HOLDIN <b>SHIFT</b> LETS U PLACE MULTIPLE BUILDINGS AT TIEM.
+    - U CAN HOLD <b>ALT</b> 2 INVERT TEH DIRECSHUN OV PLACD BELTS.
+    - EFFICIENCY IZ KEY!
+    - SHAPE PATCHEZ DAT R FURTHR AWAY FRUM TEH HUB R MOAR COMPLEX.
+    - MACHINEZ HAS LIMITD SPED, DIVIDE THEM UP 4 MAXIMUM EFFICIENCY.
+    - USE BALANCERS 2 MAXIMIZE UR EFFICIENCY.
+    - ORGANIZASHUN IZ IMPORTANT. TRY NOT 2 CROS CONVEYORS 2 MUTCH.
+    - PLAN IN ADVANCE, OR IT WILL BE MES!
+    - DOAN REMOOV UR OLD FACTORIEZ! ULL NED THEM 2 UNLOCK UPGRADEZ.
+    - TRY BEATIN LEVEL 20 OR 26 ON UR OWN BEFORE SEEKIN 4 HALP!
+    - DOAN COMPLICATE THINGS, TRY 2 STAY SIMPLE AN ULL GO FAR.
+    - U CUD NED 2 REUSE FACTORIEZ LATR IN DA GAME. BUILD UR FACTORIEZ 2 BE REUSABLE.
+    - SOMETIMEZ, U CAN FIND NEEDD SHAPE IN DA MAP WITHOUT CREATIN IT WIF STACKERS.
+    - FULL WINDMILLS/PINWHEELS CAN NEVR SPAWN NATURALLY.
+    - COLOR UR SHAPEZ BEFORE CUTTIN 4 MAXIMUM EFFICIENCY.
+    - WIF MODULEZ, SPACE IZ MERELY PERCEPSHUN; CONCERN 4 MORTAL DOODZ.
+    - MAK SEPARATE BLUEPRINT FACTORY. THEYRE IMPORTANT 4 MODULEZ.
+    - HAS CLOSR LOOK AT TEH COLOR MIXR, AN UR QUESHUNS WILL BE ANZWERD.
+    - USE <b>CTRL</b> + CLICK 2 SELECT AN AREA.
+    - BUILDIN 2 CLOSE 2 TEH HUB CAN GIT IN DA WAI OV LATR PROJECTS.
+    - TEH PIN ICON NEXT 2 EACH SHAPE IN DA UPGRADE LIST PINS IT 2 TEH SCREEN.
+    - MIX ALL 3 PRIMARY COLORS 2 MAK WITE!
+    - U HAS AN INFINITE MAP. DOAN CRAMP UR FACTORY, EXPAND!
+    - ALSO TRY FACTORIO! IZ MAH FAVORITE GAME.
+    - TEH QUAD CUTTR CUTS CLOCKWIZE, STARTIN FRUM TEH TOP RITE.
+    - U CAN DOWNLOAD UR SAVEGAMEZ IN DA MAIN MENU!
+    - DIS GAME HAS LOT OV USEFUL KEYBINDINGS! BE SURE 2 CHECK OUT TEH SETTINGS PAEG.
+    - DIS GAME HAS LOT OV SETTINGS, BE SURE 2 CHECK THEM OUT!
+    - UR HUB MARKR HAS SMALL COMPAS DAT SHOWS WHICH DIRECSHUN IT IN!
+    - 2 CLEAR BELTS, CUT TEH AREA AN DEN PASTE IT AT TEH SAME LOCASHUN.
+    - PRES F4 2 SHOW UR FPS AN TICK RATE.
+    - PRES F4 TWICE 2 SHOW TEH TILE OV UR MOUSE AN CAMERA.
+    - U CAN CLICK PINND SHAPE ON TEH LEFT SIDE 2 UNPIN IT.
+
+
+
